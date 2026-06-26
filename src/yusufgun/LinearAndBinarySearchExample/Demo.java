@@ -1,4 +1,4 @@
-package LinearAndBinarySearchExample;
+package yusufgun.LinearAndBinarySearchExample;
 
 public class Demo {
 
