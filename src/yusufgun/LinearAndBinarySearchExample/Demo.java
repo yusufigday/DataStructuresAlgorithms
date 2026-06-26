@@ -6,6 +6,7 @@ public class Demo {
     static int binarySteps = 0;
 
     public static void main(String[] args) {
+        // Linear Search ve Binary Search algoritmalarını karşılaştırmak için bir örnek
         int nums[] = new int[1000];
         int target = 900;
 
